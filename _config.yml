@@ -140,3 +140,6 @@ markdown:
 autoprefixer:
   exclude:
     - "*.min.css"
+
+
+syntax_highlighter: false
