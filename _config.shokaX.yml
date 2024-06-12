@@ -29,3 +29,9 @@ alternate: "Aston" #站点大标题，（比 title 高一级，但仅在 index �
 
 social:
   github: https://github.com/Aston17sq || github || "#191717"
+
+
+homeConfig:
+  gradient: false # 使用CSS渐变作为文章封面
+  # fixedCover 性能比默认的更好，且开启时将启用LCP优化和预加载
+  fixedCover: "" # 主页面cover(为空则使用bing随机图片)
