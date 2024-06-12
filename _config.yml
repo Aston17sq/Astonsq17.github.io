@@ -143,7 +143,7 @@ autoprefixer:
 
 
 # syntax_highlighter: false
-syntax_highlighter:
+
 
 
 minify:
