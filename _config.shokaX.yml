@@ -4,7 +4,7 @@ css: "css" # css 存放目录 (不建议改动)
 js: "js" # js 存放目录 (不建议改动)
 
 menu:
-  home: / || home
+  首页: / || home
   submenu:
     default: / || user
     link: / || cloud
