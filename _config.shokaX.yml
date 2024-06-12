@@ -23,3 +23,6 @@ footer:
 # 文章界面统计
 post:
   count: true # 开启
+
+
+alternate: "Aston" #站点大标题，（比 title 高一级，但仅在 index 显示）
