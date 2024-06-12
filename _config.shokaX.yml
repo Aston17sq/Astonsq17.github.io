@@ -6,9 +6,9 @@ js: "js" # js 存放目录 (不建议改动)
 menu:
   home: / || home
   submenu:
-    default: /source/_post/测试文章.md || user
-    link: /source/_post/测试文章.md || cloud
-  link2: /source/_post/测试文章.md/ || coffee
+    default: / || user
+    link: / || cloud
+  link2: / || coffee
 
 
 widgets:
