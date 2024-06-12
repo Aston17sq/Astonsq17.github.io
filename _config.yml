@@ -144,6 +144,13 @@ autoprefixer:
 
 # syntax_highlighter: false
 
+highlight:
+  enable: false
+
+prismjs:
+  enable: false
+
+
 minify:
   js:
     enable: false # ShokaX 自带 esbuild 优化，不建议开启，其他主题建议开启
