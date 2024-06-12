@@ -1,3 +1,5 @@
+alternate: 浅浅
+
 statics: "/" # 静态文件根目录，可用于 CDN 加速
 assets: "/source/_data/assets" # 图片资源存放目录
 css: "css" # css 存放目录 (不建议改动)
@@ -22,7 +24,7 @@ post:
   count: true # 开启
 
 
-alternate: "Aston" #站点大标题，（比 title 高一级，但仅在 index 显示）
+#alternate: "Aston" #站点大标题，（比 title 高一级，但仅在 index 显示）
 
 social:
   github: https://github.com/Aston17sq || github || "#191717"
