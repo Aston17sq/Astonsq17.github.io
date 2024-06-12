@@ -1,4 +1,4 @@
-alternate: "浅浅"
+alternate: 浅浅
 
 statics: "/" # 静态文件根目录，可用于 CDN 加速
 assets: "/source/_data/assets" # 图片资源存放目录
