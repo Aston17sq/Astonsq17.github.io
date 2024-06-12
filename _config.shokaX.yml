@@ -26,3 +26,6 @@ post:
 
 
 alternate: "Aston" #站点大标题，（比 title 高一级，但仅在 index 显示）
+
+social:
+  github: https://github.com/Aston17sq || github || "#191717"
