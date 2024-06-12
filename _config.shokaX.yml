@@ -5,10 +5,7 @@ js: "js" # js 存放目录 (不建议改动)
 
 menu:
   首页: / || home
-  submenu:
-    default: / || user
-    link: / || cloud
-  link2: / || coffee
+  导航2: / || coffee
 
 
 widgets:
