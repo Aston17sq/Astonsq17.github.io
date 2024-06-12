@@ -141,7 +141,7 @@ autoprefixer:
   exclude:
     - "*.min.css"
 
-syntax_highlighter: false
+# syntax_highlighter: false
 
 
 
