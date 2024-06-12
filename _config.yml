@@ -146,7 +146,7 @@ syntax_highlighter: false
 
 minify:
   js:
-    enable: true # ShokaX 自带 esbuild 优化，不建议开启，其他主题建议开启
+    enable: false # ShokaX 自带 esbuild 优化，不建议开启，其他主题建议开启
     exclude: # 排除文件，接受 string[]，需符合 micromatch 格式
   css:
     enable: true # 开启 CSS 优化
