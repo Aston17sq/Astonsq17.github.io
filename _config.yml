@@ -175,7 +175,7 @@ feed:
   category_dir: false
   rss:
     enable: true
-    template: "node_modules/hexo-theme-shokax/layout/_alternate/rss.ejs"
+    template: "node_modules/hexo-theme-shokax/layout/rss.ejs"
     output: "rss.xml"
   atom:
     enable: true
